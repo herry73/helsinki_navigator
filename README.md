@@ -47,12 +47,10 @@ graph TD
     Routing[Digitransit GraphQL] -->|Path Geometry| UI
 ```
 ## Demo
-<p align="center">
-  <video src="./assets/helsinki-demo.mp4" width="80%" controls muted autoplay loop>
-    Your browser doesn't support the video tag. 
-    [Download the demo video here](./assets/helsinki-demo.mp4).
-  </video>
-</p>
+
+
+https://github.com/user-attachments/assets/318fc968-f1a7-4842-ac87-f222acb5645e
+
 
 ---
 
