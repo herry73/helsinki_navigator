@@ -48,7 +48,10 @@ graph TD
 ```
 ## Demo
 <p align="center">
-  <video src="./assets/demo.mp4" width="80%" controls></video>
+  <video src="./assets/helsinki-demo.mp4" width="80%" controls muted autoplay loop>
+    Your browser doesn't support the video tag. 
+    [Download the demo video here](./assets/helsinki-demo.mp4).
+  </video>
 </p>
 
 ---
