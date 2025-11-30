@@ -48,7 +48,7 @@ graph TD
 ```
 ## Demo
 <p align="center">
-  <video src="./assets/helsinki-demo.mp4" width="80%" controls></video>
+  <video src="./assets/demo.mkv" width="80%" controls></video>
 </p>
 
 ---
