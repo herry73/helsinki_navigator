@@ -1,4 +1,4 @@
-# 🚋 Helsinki AI Navigator
+# 🚋Cognitive City Navigator
 
 A Next-Gen Semantic Travel Guide powered by Knowledge Graphs, Vector Search, and Real-Time IoT Data.
 
